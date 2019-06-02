@@ -16,4 +16,5 @@ To run client : `nc localhost 8000` [ atleast 2,  to play with chat functionalit
 
 ### Improve/What can be added more
 ..* Open for code review
-..* Open for code restructing 
+..* Open for code restructing
+..* How can this be extended more
